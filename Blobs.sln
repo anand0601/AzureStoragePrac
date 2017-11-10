@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blobs", "Blobs\Blobs.csproj", "{73653DFD-6E23-4424-BF1C-3B6E65F34005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tables", "Tables\Tables.csproj", "{0B41C5D2-4D46-4A84-BDAA-D0D69F563A95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestQueue", "TestQueue\TestQueue.csproj", "{CBC221FD-699D-499A-8A93-7A022DC921C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73653DFD-6E23-4424-BF1C-3B6E65F34005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73653DFD-6E23-4424-BF1C-3B6E65F34005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73653DFD-6E23-4424-BF1C-3B6E65F34005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73653DFD-6E23-4424-BF1C-3B6E65F34005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B41C5D2-4D46-4A84-BDAA-D0D69F563A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B41C5D2-4D46-4A84-BDAA-D0D69F563A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B41C5D2-4D46-4A84-BDAA-D0D69F563A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B41C5D2-4D46-4A84-BDAA-D0D69F563A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC221FD-699D-499A-8A93-7A022DC921C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC221FD-699D-499A-8A93-7A022DC921C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC221FD-699D-499A-8A93-7A022DC921C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC221FD-699D-499A-8A93-7A022DC921C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
